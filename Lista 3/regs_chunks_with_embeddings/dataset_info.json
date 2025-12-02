@@ -1,0 +1,99 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "doc_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "file_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "chunk_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "chunk_kind": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "kind": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_path": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "annex_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "chapter_id": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "article_id": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "page_start": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "page_end": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "reg_no": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "supplement": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "effective_from": {
+      "dtype": "timestamp[ns]",
+      "_type": "Value"
+    },
+    "jurisdiction": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "tokens": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "level": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "parent_path": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "anchor": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "part_index": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "embeddings": {
+      "feature": {
+        "dtype": "float32",
+        "_type": "Value"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
